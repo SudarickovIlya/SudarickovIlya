@@ -21,6 +21,9 @@
 - Студент SF -DS
 
 
+---
+
+
 ### Hello! 👋
 
 ### ✨ About me in 30 seconds ✨ 
